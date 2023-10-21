@@ -51,3 +51,11 @@ print(add(1,2) + add(2,3))
 """
 output prediction: error Nonetype
 """
+
+#7
+def concatenate(b,c):
+    return str(b)+str(c)
+print(concatenate(2,5))
+"""
+output prediction: 25
+"""
