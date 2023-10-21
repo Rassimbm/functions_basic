@@ -92,3 +92,12 @@ output prediction:
 14
 21
 """
+
+#10
+def addition(b,c):
+    return b+c
+    return 10
+print(addition(3,5))
+"""
+output prediction: 8
+"""
