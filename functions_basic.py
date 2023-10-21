@@ -24,7 +24,6 @@ def number_of_books_on_hold():
 print(number_of_books_on_hold())
 """
 output prediction: 5
-correct output: 5
 """
 
 #4
@@ -34,7 +33,6 @@ def number_of_fingers():
 print(number_of_fingers())
 """
 output prediction: 5
-correct output: 5
 """
 
 #5
@@ -44,5 +42,12 @@ x = number_of_great_lakes()
 print(x)
 """
 output prediction: 5
-correct output: 5
+"""
+
+#6
+def add(b,c):
+    print(b+c)
+print(add(1,2) + add(2,3))
+"""
+output prediction: error Nonetype
 """
