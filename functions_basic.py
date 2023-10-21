@@ -26,3 +26,13 @@ print(number_of_books_on_hold())
 output prediction: 5
 correct output: 5
 """
+
+#4
+def number_of_fingers():
+    return 5
+    print(10)
+print(number_of_fingers())
+"""
+output prediction: 5
+correct output: 5
+"""
