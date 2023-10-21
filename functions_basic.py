@@ -36,3 +36,13 @@ print(number_of_fingers())
 output prediction: 5
 correct output: 5
 """
+
+#5
+def number_of_great_lakes():
+    print(5)
+x = number_of_great_lakes()
+print(x)
+"""
+output prediction: 5
+correct output: 5
+"""
