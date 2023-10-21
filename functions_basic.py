@@ -59,3 +59,19 @@ print(concatenate(2,5))
 """
 output prediction: 25
 """
+
+8
+def number_of_oceans_or_fingers_or_continents():
+    b = 100
+    print(b)
+    if b < 10:
+        return 5
+    else:
+        return 10
+    return 7
+print(number_of_oceans_or_fingers_or_continents())
+"""
+output prediction:
+100
+10
+"""
