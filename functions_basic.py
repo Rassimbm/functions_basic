@@ -154,3 +154,18 @@ output prediction:
 300
 300
 """
+
+#14
+def foo():
+    print(1)
+    bar()
+    print(2)
+def bar():
+    print(3)
+foo()
+"""
+output prediction:
+1
+3
+2
+"""
