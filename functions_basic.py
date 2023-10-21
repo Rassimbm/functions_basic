@@ -101,3 +101,20 @@ print(addition(3,5))
 """
 output prediction: 8
 """
+
+#11
+b = 500
+print(b)
+def foobar():
+    b = 300
+    print(b)
+print(b)
+foobar()
+print(b)
+"""
+output prediction:
+500
+500
+300
+500
+"""
